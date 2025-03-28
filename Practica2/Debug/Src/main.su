@@ -1,0 +1,7 @@
+../Src/main.c:34:5:main	8	static
+../Src/main.c:72:6:delayInit	16	static
+../Src/main.c:84:8:delayRead	24	static
+../Src/main.c:105:6:delayWrite	16	static
+../Src/main.c:113:8:durationOutOfRange	24	static
+../Src/main.c:144:13:SystemClock_Config	88	static
+../Src/main.c:196:13:Error_Handler	8	static

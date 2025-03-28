@@ -1,0 +1,7 @@
+../Src/main.c:34:5:main	2
+../Src/main.c:72:6:delayInit	3
+../Src/main.c:84:8:delayRead	4
+../Src/main.c:105:6:delayWrite	3
+../Src/main.c:113:8:durationOutOfRange	2
+../Src/main.c:144:13:SystemClock_Config	4
+../Src/main.c:196:13:Error_Handler	1
